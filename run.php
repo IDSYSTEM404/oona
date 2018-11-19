@@ -2,9 +2,9 @@
 session_start();
 set_time_limit(0);
 error_reporting(0);
-echo "Edited by Wahyu Arif P x SGB YK.";
+echo "THANKS SGB TEAM\n";
+echo "Edited by Wahyu Arif P x SGB YK.\n";
 echo "For Terminal.";
-echo "";
 echo "\nKode Reff      : ";
 $refcode = trim(fgets(STDIN, 1024));
 echo "\nJumlah      : ";
